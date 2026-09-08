@@ -16,14 +16,18 @@ web and mobile applications and learning new technologies.
 
 ## 🛠️ Technologies
 
-### Frontend            ### BackEnd
-- JavaScript            - Node.js
-- HTML                  - Superbase
+### Frontend           
+- JavaScript            
+- HTML                  
 - CSS                   
 - React
 - Next.js
 - TypeScript
 - Tailwind CSS
+
+### Backend
+- Node.js
+- Superbase
 
 
 ### Tools
