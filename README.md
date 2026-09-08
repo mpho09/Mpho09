@@ -1,16 +1,74 @@
 ## Hi there 👋
 
-<!--
-**mpho09/Mpho09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mpho 👋
 
-Here are some ideas to get you started:
+💻 Software Developer | Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate software developer who enjoys building
+web and mobile applications and learning new technologies.
+
+## 🚀 About Me
+
+- 🌱 Currently improving my software development skills
+- 💻 Building web and mobile applications
+- 🔥 Interested in AI and modern technologies
+- 🛠️ Working with React, Next.js, TypeScript and Node.js
+- ☁️ Learning more about cloud and deployment
+
+## 🛠️ Technologies
+
+### Frontend
+- JavaScript
+- HTML
+- CSS
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Node.js
+- MySQL
+- Superbase
+
+### Tools
+- Git
+- GitHub
+- Vercel
+- Render
+
+## 📌 Featured Projects
+
+### WeServa
+A service-provider platform connecting users with beauty
+and other service professionals.
+
+### Media Literacy Coach
+An application designed to help users improve their
+media literacy skills.
+
+## Tech Stack
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/mpho09
+- LinkedIn: https://www.linkedin.com/in/mphomangena/
+- Email: mphomangena0409@gmail.com
