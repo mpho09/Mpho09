@@ -17,19 +17,15 @@ web and mobile applications and learning new technologies.
 
 ## 🛠️ Technologies
 
-### Frontend
-- JavaScript
-- HTML
-- CSS
+### Frontend            ### BackEnd
+- JavaScript            - Node.js
+- HTML                  - Superbase
+- CSS                   
 - React
 - Next.js
 - TypeScript
 - Tailwind CSS
 
-### Backend
-- Node.js
-- MySQL
-- Superbase
 
 ### Tools
 - Git
@@ -47,7 +43,6 @@ and other service professionals.
 An application designed to help users improve their
 media literacy skills.
 
-## Tech Stack
 
 ## 🛠️ Tech Stack
 
