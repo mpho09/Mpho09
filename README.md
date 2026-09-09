@@ -66,4 +66,4 @@ media literacy skills.
 
 - GitHub: https://github.com/mpho09
 - LinkedIn: https://www.linkedin.com/in/mphomangena/
-- Email: mphomangena0409@gmail.com
+
