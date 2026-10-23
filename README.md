@@ -1,20 +1,20 @@
 
 # Hi, I'm Mpho 👋
 
-💻 Software Developer | Full-Stack Developer
+ Software Developer | Full-Stack Developer
 
 I'm a passionate software developer who enjoys building
 web and mobile applications and learning new technologies.
 
-## 🚀 About Me
+##  About Me
 
-- 🌱 Currently improving my software development skills
-- 💻 Building web and mobile applications
-- 🔥 Interested in AI and modern technologies
-- 🛠️ Working with React, Next.js, TypeScript and Node.js
-- ☁️ Learning more about cloud and deployment
+- Currently improving my software development skills
+- Building web and mobile applications
+- Interested in AI and modern technologies
+- Working with React, Next.js, TypeScript and Node.js
+- Learning more about cloud and deployment
 
-## 🛠️ Technologies
+##  Technologies
 
 ### Frontend           
 - JavaScript            
@@ -62,7 +62,7 @@ media literacy skills.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 </p>
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: https://github.com/mpho09
 - LinkedIn: https://www.linkedin.com/in/mphomangena/
